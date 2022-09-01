@@ -1,4 +1,4 @@
-# 👋 Hello I'm loserboi23 
+# 👋 Hello
 
 I'm interested in a variety of programming topics but looking/leaning towards
 
@@ -21,10 +21,8 @@ I'm interested in a variety of programming topics but looking/leaning towards
 ## I am currently learning
 
 - Unreal
-
-## What I want to learn later
-
 - Rust
+
 
 ### Looking to collab with an indie game studio or developer for game jams and project passions
 reach me at loserboi23@gmail.com
